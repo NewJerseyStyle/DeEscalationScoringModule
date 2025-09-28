@@ -267,7 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔄 Changelog
 
-### v1.0.0
+### v0.1.0
 - Initial release
 - Support for Poe API and OpenAI-compatible endpoints
 - Batch processing capabilities
