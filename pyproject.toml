@@ -1,0 +1,7 @@
+[project]
+name =  "de-escalation-scoring-module"
+description = "Sample Python Project for creating a new Python Module"
+readme = "README.md"
+requires-python = ">=3.10"
+dynamic = ["version"]
+dependencies = ["json-repair", "openai"]
